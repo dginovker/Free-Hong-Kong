@@ -5,8 +5,14 @@
 Number of MPs not contacted: 338
 
 
+# Want to help out?
 
-See the bottom of the table for how you can help out!
+* Step 1: Contact your representative and ask if they support the democratic movement in Hong Kong!
+* Step 2: Update this table by either:
+  * Creating an [issue]() regarding who you contacted, and their YES/NO status (requires a Github account)
+  * (Advanced) Creating a pull request updating the table with your found status
+  * Send me an email directly! The simplest way is to forward your reply from the representative to me at dcress01@uoguelph.ca
+
 
 |Full Name|Contact|Supports Hong Kong?|
 |:-:|:-:|:-:|
@@ -348,14 +354,6 @@ See the bottom of the table for how you can help out!
 |Lenore Zann|Unknown|Unknown|
 |Bob Zimmer|Unknown|Unknown|
 |Sameer Zuberi|Unknown|Unknown|
-
-# Want to help out?
-
-* Step 1: Contact your representative and ask if they support the democratic movement in Hong Kong!
-* Step 2: Update this table by either:
-  * Creating an [issue]() regarding who you contacted, and their YES/NO status (requires a Github account)
-  * (Advanced) Creating a pull request updating the table with your found status
-  * Send me an email directly! The simplest way is to forward your reply from the representative to me at dcress01@uoguelph.ca
 
   
 ###### Not one less.
