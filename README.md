@@ -3,6 +3,7 @@
 ## Current Support Rate: 0/0
 
 See the bottom of the table for how you can help out!
+
 |Full Name|Constituency|Province / Territory|Political Affiliation|Supports Hong Kong?|
 |:-:|:-:|:-:|:-:|:-:|
 |Ziad Aboultaif|Edmonton Manning|Alberta|Conservative|Unknown|
