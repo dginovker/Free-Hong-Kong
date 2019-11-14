@@ -1,4 +1,6 @@
-﻿# List of Canadian Members of Parliment
+# See our updated website and repository! https://CanadiansForHK.LIVE/ & https://github.com/dginovker/CanadiansForHK.LIVE
+
+# List of Canadian Members of Parliment
 
 ## Current Support Rate: 0/0
 
